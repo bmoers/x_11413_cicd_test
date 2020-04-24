@@ -1,0 +1,18 @@
+{
+  "name": "x_11413_cicd_test_test",
+  "roles": null,
+  "sys_class_name": "sys_ui_form",
+  "sys_created_by": "admin",
+  "sys_created_on": "2020-01-15 14:04:51",
+  "sys_id": "6c79eeeedb128010fcf41780399619d0",
+  "sys_mod_count": 0,
+  "sys_name": "x_11413_cicd_test_test",
+  "sys_package": "268e9d5fdbb32300fcf417803996195e",
+  "sys_policy": null,
+  "sys_scope": "268e9d5fdbb32300fcf417803996195e",
+  "sys_update_name": "sys_ui_form_sections_6c79eeeedb128010fcf41780399619d0",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2020-01-15 14:04:51",
+  "view": "Default view",
+  "view_name": null
+}
