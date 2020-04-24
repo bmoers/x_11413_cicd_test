@@ -1,0 +1,14 @@
+{
+  "sys_class_name": "sys_metadata_delete",
+  "sys_created_by": "admin",
+  "sys_created_on": "2020-04-24 07:51:17",
+  "sys_id": "0016bc1d05a24cd49b1ce021c693c6f9",
+  "sys_mod_count": 0,
+  "sys_name": "x_11413_cicd_test.test_user",
+  "sys_package": "268e9d5fdbb32300fcf417803996195e",
+  "sys_policy": null,
+  "sys_scope": "268e9d5fdbb32300fcf417803996195e",
+  "sys_update_name": "sys_user_role_72745342db63ff04fcf417803996195e",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2020-04-24 07:51:17"
+}

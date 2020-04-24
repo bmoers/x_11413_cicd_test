@@ -1,0 +1,14 @@
+{
+  "sys_class_name": "sys_metadata_delete",
+  "sys_created_by": "admin",
+  "sys_created_on": "2020-04-24 07:51:15",
+  "sys_id": "25c4915f8a734346894f152096228081",
+  "sys_mod_count": 0,
+  "sys_name": "GlideRecord.setValue",
+  "sys_package": "268e9d5fdbb32300fcf417803996195e",
+  "sys_policy": null,
+  "sys_scope": "268e9d5fdbb32300fcf417803996195e",
+  "sys_update_name": "sys_scope_privilege_1cff1097db680010fcf41780399619d1",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2020-04-24 07:51:15"
+}

@@ -1,0 +1,14 @@
+{
+  "sys_class_name": "sys_metadata_delete",
+  "sys_created_by": "admin",
+  "sys_created_on": "2020-04-24 07:51:12",
+  "sys_id": "0045968c8d184cd08000556652948100",
+  "sys_mod_count": 0,
+  "sys_name": "test",
+  "sys_package": "268e9d5fdbb32300fcf417803996195e",
+  "sys_policy": null,
+  "sys_scope": "268e9d5fdbb32300fcf417803996195e",
+  "sys_update_name": "sys_db_object_f5645342db63ff04fcf4178039961952",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2020-04-24 07:51:12"
+}

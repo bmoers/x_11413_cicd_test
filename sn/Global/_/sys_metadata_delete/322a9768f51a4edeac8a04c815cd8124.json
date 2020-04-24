@@ -1,0 +1,14 @@
+{
+  "sys_class_name": "sys_metadata_delete",
+  "sys_created_by": "admin",
+  "sys_created_on": "2020-04-24 07:51:14",
+  "sys_id": "322a9768f51a4edeac8a04c815cd8124",
+  "sys_mod_count": 0,
+  "sys_name": "A new Column",
+  "sys_package": "268e9d5fdbb32300fcf417803996195e",
+  "sys_policy": null,
+  "sys_scope": "268e9d5fdbb32300fcf417803996195e",
+  "sys_update_name": "sys_documentation_x_11413_cicd_test_test_a_new_column_en",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2020-04-24 07:51:14"
+}
