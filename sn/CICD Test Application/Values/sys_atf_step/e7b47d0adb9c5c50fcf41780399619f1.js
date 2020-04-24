@@ -3,7 +3,7 @@
  * ClassName   : sys_variable_value
  * Created On  : 2020-04-22 07:03:12
  * Created By  : admin
- * Updated On  : 2020-04-24 11:59:13
+ * Updated On  : 2020-04-24 13:34:35
  * Updated By  : admin
  * URL         : /sys_variable_value.do?sys_id=e7b47d0adb9c5c50fcf41780399619f1
  */
@@ -86,7 +86,7 @@
 //
 (function(outputs, steps, stepResult, assertEqual) {
     // add test script here
-	assertEqual({value:1, shouldbe:1, name:'test assertion'});
+	assertEqual({value:1, shouldbe:2, name:'test assertion'});
 
 })(outputs, steps, stepResult, assertEqual);
 // uncomment the next line to execute this script as a jasmine test
