@@ -1,0 +1,16 @@
+{
+  "document": "sys_atf_step",
+  "document_key": "6834f54adb9c5c50fcf4178039961940",
+  "order": 200,
+  "sys_class_name": "sys_variable_value",
+  "sys_created_by": "admin",
+  "sys_created_on": "2020-04-22 07:03:12",
+  "sys_id": "e7b47d0adb9c5c50fcf41780399619f1",
+  "sys_mod_count": 7,
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2020-04-24 11:59:13",
+  "value": {
+    "____see": "sn/CICD Test Application/Values/sys_atf_step/e7b47d0adb9c5c50fcf41780399619f1.js"
+  },
+  "variable": "989d9e235324220002c6435723dc3484"
+}

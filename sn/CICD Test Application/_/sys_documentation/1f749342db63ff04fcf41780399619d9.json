@@ -1,0 +1,23 @@
+{
+  "element": null,
+  "help": null,
+  "hint": null,
+  "label": "test",
+  "language": "en",
+  "name": "x_11413_cicd_test_test",
+  "plural": "tests",
+  "sys_class_name": "sys_documentation",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-08-30 11:03:17",
+  "sys_id": "1f749342db63ff04fcf41780399619d9",
+  "sys_mod_count": 0,
+  "sys_name": "test",
+  "sys_package": "268e9d5fdbb32300fcf417803996195e",
+  "sys_policy": null,
+  "sys_scope": "268e9d5fdbb32300fcf417803996195e",
+  "sys_update_name": "sys_documentation_x_11413_cicd_test_test__en",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-08-30 11:03:17",
+  "url": null,
+  "url_target": null
+}

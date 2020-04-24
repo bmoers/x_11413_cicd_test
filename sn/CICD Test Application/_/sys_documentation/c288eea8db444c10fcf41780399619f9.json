@@ -1,0 +1,23 @@
+{
+  "element": "a_new_column",
+  "help": null,
+  "hint": null,
+  "label": "A new Column",
+  "language": "en",
+  "name": "x_11413_cicd_test_test",
+  "plural": "A new Columns",
+  "sys_class_name": "sys_documentation",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-09-19 12:31:44",
+  "sys_id": "c288eea8db444c10fcf41780399619f9",
+  "sys_mod_count": 0,
+  "sys_name": "A new Column",
+  "sys_package": "268e9d5fdbb32300fcf417803996195e",
+  "sys_policy": null,
+  "sys_scope": "268e9d5fdbb32300fcf417803996195e",
+  "sys_update_name": "sys_documentation_x_11413_cicd_test_test_a_new_column_en",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-09-19 12:31:44",
+  "url": null,
+  "url_target": null
+}
