@@ -3,12 +3,12 @@
  * ClassName   : sys_variable_value
  * Created On  : 2020-04-22 07:03:55
  * Created By  : admin
- * Updated On  : 2020-04-24 09:48:20
+ * Updated On  : 2020-08-18 12:11:34
  * Updated By  : admin
  * URL         : /sys_variable_value.do?sys_id=b9e4318adb9c5c50fcf4178039961951
  */
 // You can use this step to execute a variety of server-side javascript tests including
-// jasmine tests and custom assertions
+// jasmine tests and custom assertions B
 //
 //
 // Pass or fail a step: Override the step outcome to pass or fail. This is ignored 
