@@ -1,0 +1,24 @@
+{
+  "access": "package_private",
+  "active": true,
+  "api_name": "x_11413_cicd_test.b_script",
+  "caller_access": null,
+  "client_callable": false,
+  "description": null,
+  "name": "b_script",
+  "script": {
+    "____see": "sn/CICD Test Application/Script Include/active_true/x_11413_cicd_test.b_script.js"
+  },
+  "sys_class_name": "sys_script_include",
+  "sys_created_by": "admin",
+  "sys_created_on": "2020-08-18 12:24:45",
+  "sys_id": "c0f96240db765490fcf41780399619dd",
+  "sys_mod_count": 0,
+  "sys_name": "b_script",
+  "sys_package": "268e9d5fdbb32300fcf417803996195e",
+  "sys_policy": "read",
+  "sys_scope": "268e9d5fdbb32300fcf417803996195e",
+  "sys_update_name": "sys_script_include_c0f96240db765490fcf41780399619dd",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2020-08-18 12:24:45"
+}
