@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2020-08-26 20:30:31">
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2020-08-26 21:35:15">
 <sys_remote_update_set action="INSERT_OR_UPDATE">
 <application display_value="CICD Test Application">268e9d5fdbb32300fcf417803996195e</application>
 <application_name>CICD Test Application</application_name>
@@ -20,11 +20,11 @@
 <summary/>
 <sys_class_name>sys_remote_update_set</sys_class_name>
 <sys_created_by>admin</sys_created_by>
-<sys_created_on>2020-08-26 20:30:30</sys_created_on>
-<sys_id>65d5253adbb29010fcf41780399619c4</sys_id>
+<sys_created_on>2020-08-26 21:35:14</sys_created_on>
+<sys_id>f1a4f172dbf29010fcf4178039961943</sys_id>
 <sys_mod_count>0</sys_mod_count>
 <sys_updated_by>admin</sys_updated_by>
-<sys_updated_on>2020-08-26 20:30:30</sys_updated_on>
+<sys_updated_on>2020-08-26 21:35:14</sys_updated_on>
 <update_set display_value=""/>
 <update_source display_value=""/>
 <updated/>
@@ -42,15 +42,15 @@
       gs.log(r);
     });]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_fix&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2020-08-26 12:33:10&lt;/sys_created_on&gt;&lt;sys_id&gt;5198ffeedbbe5010fcf4178039961906&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;test 3&lt;/sys_name&gt;&lt;sys_package display_value="CICD Test Application" source="x_11413_cicd_test"&gt;268e9d5fdbb32300fcf417803996195e&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="CICD Test Application"&gt;268e9d5fdbb32300fcf417803996195e&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_fix_5198ffeedbbe5010fcf4178039961906&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2020-08-26 12:33:10&lt;/sys_updated_on&gt;&lt;unloadable&gt;false&lt;/unloadable&gt;&lt;/sys_script_fix&gt;&lt;/record_update&gt;</payload>
 <payload_hash>53373528</payload_hash>
-<remote_update_set display_value="J900 - Fix Script">65d5253adbb29010fcf41780399619c4</remote_update_set>
+<remote_update_set display_value="J900 - Fix Script">f1a4f172dbf29010fcf4178039961943</remote_update_set>
 <replace_on_upgrade>false</replace_on_upgrade>
 <sys_created_by>admin</sys_created_by>
-<sys_created_on>2020-08-26 20:30:30</sys_created_on>
-<sys_id>69d5253adbb29010fcf41780399619c4</sys_id>
+<sys_created_on>2020-08-26 21:35:14</sys_created_on>
+<sys_id>f5a4f172dbf29010fcf4178039961943</sys_id>
 <sys_mod_count>0</sys_mod_count>
 <sys_recorded_at>1742ac1fe550000001</sys_recorded_at>
 <sys_updated_by>admin</sys_updated_by>
-<sys_updated_on>2020-08-26 20:30:30</sys_updated_on>
+<sys_updated_on>2020-08-26 21:35:14</sys_updated_on>
 <table/>
 <target_name>test 3</target_name>
 <type>Fix Script</type>
