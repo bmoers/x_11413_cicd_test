@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "before": false,
+  "description": null,
+  "flush_cache": false,
+  "name": "test",
+  "record_for_rollback": false,
+  "run_once": true,
+  "script": {
+    "____see": "sn/CICD Test Application/Fix Script/active_true/test.js"
+  },
+  "sys_class_name": "sys_script_fix",
+  "sys_created_by": "admin",
+  "sys_created_on": "2020-08-18 21:03:41",
+  "sys_id": "e8a02898db3a5490fcf41780399619d2",
+  "sys_mod_count": 0,
+  "sys_name": "test",
+  "sys_package": "268e9d5fdbb32300fcf417803996195e",
+  "sys_policy": null,
+  "sys_scope": "268e9d5fdbb32300fcf417803996195e",
+  "sys_update_name": "sys_script_fix_e8a02898db3a5490fcf41780399619d2",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2020-08-18 21:03:41",
+  "unloadable": false
+}
