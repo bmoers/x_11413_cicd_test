@@ -2,7 +2,6 @@
   "access": "package_private",
   "active": true,
   "api_name": "x_11413_cicd_test.aStandalone_class",
-  "caller_access": null,
   "client_callable": false,
   "description": null,
   "name": "aStandalone_class",

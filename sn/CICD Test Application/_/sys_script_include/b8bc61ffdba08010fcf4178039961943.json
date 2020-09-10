@@ -2,7 +2,6 @@
   "access": "public",
   "active": true,
   "api_name": "x_11413_cicd_test.special char test",
-  "caller_access": null,
   "client_callable": false,
   "description": "this is a change added in the separate update set",
   "name": "special char test",
