@@ -1,0 +1,14 @@
+{
+  "sys_class_name": "sys_metadata_delete",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-09-19 12:47:01",
+  "sys_id": "05fcf99fb6c24fbc964c688f8a258390",
+  "sys_mod_count": 0,
+  "sys_name": "col 1",
+  "sys_package": "268e9d5fdbb32300fcf417803996195e",
+  "sys_policy": null,
+  "sys_scope": "268e9d5fdbb32300fcf417803996195e",
+  "sys_update_name": "sys_dictionary_x_11413_cicd_test_test_col_1",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-09-19 12:47:01"
+}

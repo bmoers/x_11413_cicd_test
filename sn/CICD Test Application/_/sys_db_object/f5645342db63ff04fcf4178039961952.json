@@ -2,7 +2,6 @@
   "access": "public",
   "actions_access": false,
   "alter_access": false,
-  "caller_access": null,
   "client_scripts_access": false,
   "configuration_access": false,
   "create_access": false,
